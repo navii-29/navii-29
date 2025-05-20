@@ -10,5 +10,5 @@
 
 - 📫 How to reach me: email : sanatanwarrior108@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can adapt to any given job prefrences as I have done data science , data analytics , web developement , Machine learning , software engineering you name it I have it 
+- ⚡ Fun fact: I can adapt to any given job preferences as I have done data science , data analytics , web developement , Machine learning , software engineering you name it I have it 
 
