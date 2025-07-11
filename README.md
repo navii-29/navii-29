@@ -2,7 +2,7 @@
 
 
 
-## Software Developer from non-tech Branch of Electronic and Communication,Believe it is difficult to crack a job but not Impossible
+## Software Developer from non-tech Branch of Electronics and Communication,In todays scenario it is difficult to crack a job but not Impossible
 
 - 🔭 I’m currently employed as Python Developer at Cogoport ...
 - 🌱 I’m currently learning Deep Learning
