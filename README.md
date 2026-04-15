@@ -14,7 +14,7 @@
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| B.Tech – Electronics & Telecommunications | VJTI, Mumbai | 2021 – 2025 | — |
+| B.Tech – Electronics & Telecommunications | VJTI, Mumbai | 2021 – 2025 | C |
 | Higher Secondary (12th) | Little Angels' Hr. Sec. School, Jammu | 2019 – 2021 | 94.8% (JKBOSE) |
 
 ---
